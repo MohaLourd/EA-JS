@@ -42,3 +42,9 @@ Ejecutar JS
 ```
 node main.js
 ```
+
+
+VIDEO DE ENTREGA S1-JAVASCRIPT: https://drive.google.com/file/d/1dLXLDbCOPMmdFwl3NdXBLEX8iY2nE7Bd/view?usp=sharing
+
+
+
